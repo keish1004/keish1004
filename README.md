@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keish1004
+- 👋 Hi, I’m Kei Shioda@keish1004
 - 👀 I’m interested in cars, taking photos, traveling and animes.
 - 🌱 I’m currently learning kotlin.
 - 💞️ I’m looking to collaborate on applications using machine learning technologies.
